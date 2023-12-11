@@ -1,3 +1,20 @@
+**/node_modules/
+**/jspm_packages/
+**/web_modules/
+
+**.npm
+
+**.eslintcache
+**.stylelintcache
+
+**.env
+**.env.development.local
+**.env.test.local
+**.env.production.local
+**.env.local
+
+
+
 # Logs
 logs
 *.log
